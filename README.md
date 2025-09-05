@@ -1,4 +1,4 @@
-# Netflix Clone
+# Netflix Clone📺
 
 This is a static, front-end replica of the Netflix homepage, built as a project to demonstrate proficiency in web development using HTML and CSS. The goal was to recreate the look and feel of the original site, focusing on layout, responsive design, and visual fidelity.
 

@@ -33,7 +33,7 @@ This project is a static site and does not require any build process or a local 
 
 #### **Installation**
 
-1.  **Clone the repository:**
-2.  **Navigate to the project directory:**
-3.  **Open the file:**
+1.  **Clone the repository**
+2.  **Navigate to the project directory**
+3.  **Open the file**
     
